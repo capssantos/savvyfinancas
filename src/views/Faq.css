@@ -1,0 +1,43 @@
+.question {
+    border-bottom: 1px solid black;
+    padding: 10px 0
+}
+
+.question input,
+.question .answer {
+    display: none
+}
+
+
+.question label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+}
+
+.question input:checked~.answer {
+    display: block
+}
+
+.answer {
+    justify-content: auto;
+    background-color: white;
+}
+
+.alinhamento {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inicio {
+    width: 50%;
+    margin: auto;
+}
+
+label {
+    background-color: #c4dbe0;
+    padding: 20px;
+
+}

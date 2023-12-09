@@ -1,0 +1,27 @@
+.cl2 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    width: 60%;
+    margin: 300px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    gap: 20px;
+    font-size: 20px;
+
+
+}
+
+.cl2 div {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+#cl3 {
+    text-align: justify;
+}
+
+img {
+    width: 50%;
+}

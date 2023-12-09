@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contato_titulo {
+    font-size: 40px;
+
+}
+
+.contato_border {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 100%;
+    width: 50%;
+    border-style: groove;
+    border-color: black;
+    border: 1;
+    margin-top: 40px;
+    margin-block: 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(45deg, teal, #72b6e4);
+}
+
+.input {
+    font-size: 18px;
+    margin-top: 60px;
+
+}
+
+input,
+textarea {
+    width: 400px;
+    height: 40px;
+    border: 1;
+    border-color: black;
+    font-size: 20px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.mensagem textarea {
+    width: 400px;
+    height: 200px;
+
+}
+
+.textarea_msg {
+    margin-block: 50px;
+    align-items: normal;
+
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+.grid {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#msg {
+    margin-bottom: 40px;
+}
+
+#button1 {
+
+    color: black;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(249, 247, 247);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 40px;
+    text-decoration: none;
+
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+
+}

@@ -1,0 +1,78 @@
+#subtitulo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.casa {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    justify-content: center;
+    gap: 30px;
+
+
+
+
+}
+
+.casa div {
+    border: 2;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 0px 0px 5px #ccc;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+
+
+
+}
+
+
+
+.casa div {
+    margin: auto;
+    text-align: left;
+    margin-top: 20px;
+    align-items: center;
+    height: 600px;
+
+}
+
+.casa1 img {
+    width: 40%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+    margin-bottom: 0;
+    background-color: white;
+
+}
+
+.dad1 {
+    font-weight: bold;
+    text-align: left;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.m1 {
+    letter-spacing: 0.02rem;
+    text-align: justify;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#geral {
+    background-color: #ccc;
+    margin: 0;
+    padding: auto;
+    margin-top: 30px;
+    width: 100%;
+
+}

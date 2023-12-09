@@ -1,0 +1,65 @@
+.rodape {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 30% 30% 40%;
+    width: 60%;
+    background-color: rgb(172, 208, 228);
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.sociais button {
+    width: 40px;
+    height: 40px;
+    background-image: linear-gradient(45deg, teal, #72b6e4);
+    border: none;
+    margin-right: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.sociais button {
+    font-size: 20px;
+    color: rgb(19, 19, 18);
+
+}
+
+.materias {
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    gap: 40px;
+    background-color: rgb(172, 208, 228);
+    padding: 0;
+
+}
+
+#rod_texto {
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin: 40px;
+    background-color: rgb(172, 208, 228);
+}
+
+#rod_final {
+    margin: 0;
+    background-color: rgb(172, 208, 228);
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+}
