@@ -28,7 +28,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
       <Route path='/time' element={<Time />} />
       <Route path='/faq' element={<Faq />} />
       <Route path='/sobre' element={<Sobre />} />
-
     </Routes>
     <Footer />
 

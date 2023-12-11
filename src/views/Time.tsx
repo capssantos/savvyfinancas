@@ -63,7 +63,7 @@ function Time() {
                     </div>
                     <div className='casa1'>
                         <section><img src={MEL} /></section>
-                        <p className='dad1'>Juliana dos Santos Leonídio
+                        <p className='dad1'>Mel Nunes Gonçalves
                             <br />20 anos
                             <br />@mellis_fox
                         </p>
@@ -76,7 +76,7 @@ function Time() {
 
                     <div className='casa1'>
                         <section><img src={YASMIN} /></section>
-                        <p className='dad1'>Yamin C. Bastos Machado
+                        <p className='dad1'>Yasmin C. Bastos Machado
                             <br />19 anos
                             <br />@yasmin_bastos24
                         </p>

@@ -18,7 +18,7 @@ function Contato() {
                         <div className='mensagem'><textarea id='msg' name="msg" ></textarea></div>
                         <div><h6>*Campos obrigatórios</h6></div>
                     </div>
-                    <div className='button'><button id='button1'><a href="#">Enviar</a></button></div>
+                    <div className='button'><button id='button1' type="submit" ><a href="#">Enviar</a></button></div>
 
                 </div>
             </div>
